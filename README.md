@@ -1,5 +1,8 @@
 # Solutions Challenge
-Importing csv and after cleaning the data try to fire off GET calls for all URL's within a specific field.
+1) Import a csv (complete)
+2) Clean the data (complete, hopefully correct)
+3) Fire off GET calls for all URL's within a specific field. (incomplete)
+4) Pull Status of each URL and print (incomplete)
 
 I opted to use Python 3 for the project as I have dabbled lightly (extremely lightly) with it in the past.
 
