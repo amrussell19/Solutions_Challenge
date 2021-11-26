@@ -41,7 +41,7 @@ when asked to proceed, type in 'y'
 # Jupyter
 
 After insalling Conda and it's packages, I was using JupyterLab to write out the code.
-It's a good format that code blocks and keeps it easy to follow / edit.
+It's a good format that makes it easy to use code blocks and editting your code.
 
 ![image](https://user-images.githubusercontent.com/95093171/143609555-fdd42365-a84e-416f-821a-260e60f918c2.png)
 
