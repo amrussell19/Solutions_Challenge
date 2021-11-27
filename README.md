@@ -25,7 +25,7 @@ replace 'myenv' with whatever name you wish for your environment
 
 # Packages
 
-Open anaconda prompt and install the below packages with the follownig commands
+Open anaconda prompt and install the below packages with the following commands
 
 Numpy: https://anaconda.org/anaconda/numpy
 
